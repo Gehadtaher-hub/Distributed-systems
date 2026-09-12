@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#18324a">
+  <title>Distributed Systems Ebook</title>
+  <style>
+    :root{--ink:#263238;--navy:#18324a;--burgundy:#7a263a;--gold:#c59b45;--cream:#fffaf0;--line:#dbcba8;--good:#2c6e49;--bad:#a23a3a}
+    *{box-sizing:border-box}
+    html,body{margin:0;min-height:100%;font-family:Georgia,"Times New Roman",serif;background:radial-gradient(circle at top,#fbf7ed,#e7dcc4 72%);color:var(--ink)}
+    header{position:sticky;top:0;z-index:20;background:linear-gradient(110deg,var(--navy),#244d6c);color:#fff;display:flex;align-items:center;justify-content:space-between;gap:14px;padding:12px 22px;border-bottom:5px solid var(--gold);box-shadow:0 4px 18px #1d293755}
+    h1{font-size:clamp(20px,3vw,31px);margin:0}.subtitle{font-size:13px;color:#f1ddb0;margin-top:3px}
+    .header-actions{display:flex;gap:8px;align-items:center;justify-content:flex-end;flex-wrap:wrap}
+    .btn{border:1px solid #e8d39a;border-radius:999px;padding:10px 16px;font:750 14px system-ui;text-decoration:none;background:linear-gradient(#fffaf0,#eadcb9);color:var(--navy);cursor:pointer;transition:.2s}
+    .btn:hover,.btn:focus-visible{transform:translateY(-2px);box-shadow:0 6px 14px #101c2855}.btn.active{background:linear-gradient(#9b3d54,var(--burgundy));border-color:#f0c976;color:#fff}
+    .wrap{padding:14px 18px 24px;display:flex;flex-direction:column;align-items:center}.toolbar{display:flex;gap:9px;align-items:center;flex-wrap:wrap;justify-content:center;margin-bottom:12px;background:#fffaf0e8;border:1px solid var(--line);padding:9px 14px;border-radius:16px;font-family:system-ui;box-shadow:0 5px 16px #5b45251f}
+    .toolbar button,.toolbar input{padding:9px 12px;border:1px solid #bda978;border-radius:9px;background:#fffdf7;color:var(--navy);font-weight:700}.toolbar button{cursor:pointer}.toolbar input{width:70px}.toolbar button:disabled{opacity:.5;cursor:not-allowed}
+    .book-shell{width:min(1240px,97vw);height:calc(100vh - 170px);min-height:300px;display:flex;justify-content:center;align-items:flex-start;overflow:auto;padding:8px}.flip-book{display:none;filter:drop-shadow(0 14px 20px #362a2260)}
+    .page{background:var(--cream);box-shadow:inset 0 0 0 1px #cbb98e;overflow:hidden;position:relative}.page canvas{width:100%;height:100%;object-fit:contain;background:#fff}.link-layer{position:absolute;inset:0;pointer-events:none}.pdf-link{position:absolute;pointer-events:auto;cursor:pointer;background:transparent;border:0;padding:0}.pdf-link:hover{background:#c59b4530;outline:2px solid #c59b45}
+    .loading{max-width:620px;padding:34px;background:#fffaf0;border:1px solid var(--line);border-radius:18px;text-align:center;box-shadow:0 10px 28px #5b45251f}.error{color:var(--bad)}.good{color:var(--good)}.watermark{position:absolute;bottom:12px;left:0;right:0;text-align:center;color:#7a263a42;font:800 14px system-ui;pointer-events:none}
+    .local-panel{display:none;margin-top:18px;padding:15px;border:1px dashed #b99c5e;border-radius:12px;background:#fffdf7}.local-panel.show{display:block}.file-label{display:inline-block;margin:6px;padding:10px 14px;border-radius:999px;background:var(--burgundy);color:#fff;font:700 14px system-ui;cursor:pointer}.file-label input{display:none}.small{font-size:13px;color:#706654;line-height:1.5}
+    @media(max-width:760px){header{position:relative;flex-direction:column;align-items:flex-start;padding:10px}.header-actions{width:100%;justify-content:flex-start}.btn{padding:9px 12px;font-size:12px}.book-shell{height:calc(100vh - 305px)}.wrap{padding:8px}.toolbar{font-size:12px}.hint{display:none}}
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/page-flip@2.0.7/dist/js/page-flip.browser.min.js"></script>
+</head>
+<body>
+<header>
+  <div><h1 id="pageTitle">Distributed Systems Ebook</h1><div id="subtitle" class="subtitle">Clickable contents, embedded links, and interactive activities</div></div>
+  <nav class="header-actions" aria-label="Book selection and activities">
+    <a id="ebookBtn" class="btn" href="./index.html">📘 Main Ebook</a>
+    <a id="labBtn" class="btn" href="./index.html?book=lab">🧪 Lab Manual</a>
+    <a class="btn" href="studio.html">⚙️ Interactive Activities</a>
+  </nav>
+</header>
+<main class="wrap">
+  <div class="toolbar">
+    <button id="prev" type="button" disabled>Previous</button><span id="status" aria-live="polite">Preparing book...</span><span class="hint">Contents and document links are clickable</span><button id="next" type="button" disabled>Next</button><label>Page <input id="pageNo" type="number" min="1" value="1" disabled></label>
+  </div>
+  <div class="book-shell">
+    <div id="loading" class="loading"><h2 id="loadingTitle">Loading the ebook</h2><p>Pages and clickable links are being prepared.</p>
+      <div id="localPanel" class="local-panel"><h3>Open a local PDF</h3><p class="small">Android may block automatic PDF loading when this HTML file is opened from a file manager. Select the matching PDF manually, or publish all files with GitHub Pages.</p><label class="file-label">Select PDF<input id="localFile" type="file" accept="application/pdf"></label></div>
+    </div>
+    <div id="book" class="flip-book"></div>
+  </div>
+</main>
+<script>
+pdfjsLib.GlobalWorkerOptions.workerSrc='https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+const query=new URLSearchParams(location.search),isLab=query.get('book')==='lab';
+const pdfFile=isLab?'LabManual-DistributedSystems.pdf':'Distributed_ebook_2025a.pdf';
+const title=isLab?'Distributed Systems Lab Manual':'Distributed Systems Ebook';
+const watermark=isLab?'DISTRIBUTED SYSTEMS LAB MANUAL':'DISTRIBUTED SYSTEMS EBOOK';
+const pageTitle=document.getElementById('pageTitle'),subtitle=document.getElementById('subtitle'),ebookBtn=document.getElementById('ebookBtn'),labBtn=document.getElementById('labBtn'),root=document.getElementById('book'),loading=document.getElementById('loading'),loadingTitle=document.getElementById('loadingTitle'),localPanel=document.getElementById('localPanel'),localFile=document.getElementById('localFile'),status=document.getElementById('status'),pageNo=document.getElementById('pageNo'),prev=document.getElementById('prev'),next=document.getElementById('next');
+document.title=title;pageTitle.textContent=title;subtitle.textContent=isLab?'Practical laboratories, exercises, and applied activities':'Clickable contents, embedded links, and interactive activities';loadingTitle.textContent='Loading '+title;(isLab?labBtn:ebookBtn).classList.add('active');
+let book,total=0,pdfDoc=null,loadingStarted=false;
+async function targetPage(dest){try{const d=typeof dest==='string'?await pdfDoc.getDestination(dest):dest;if(!d)return null;const ref=d[0];if(typeof ref==='object')return(await pdfDoc.getPageIndex(ref))+1;if(Number.isInteger(ref))return ref+1}catch(e){}return null}
+async function addLinks(pg,div,viewport){const anns=await pg.getAnnotations({intent:'display'}),layer=document.createElement('div');layer.className='link-layer';for(const a of anns){if(a.subtype!=='Link'||!a.rect)continue;const r=viewport.convertToViewportRectangle(a.rect),x=Math.min(r[0],r[2]),y=Math.min(r[1],r[3]),w=Math.abs(r[2]-r[0]),h=Math.abs(r[3]-r[1]),el=document.createElement('button');el.type='button';el.className='pdf-link';el.style.left=(x/viewport.width*100)+'%';el.style.top=(y/viewport.height*100)+'%';el.style.width=(w/viewport.width*100)+'%';el.style.height=(h/viewport.height*100)+'%';el.title=a.url?'Open external link':'Go to section';el.setAttribute('aria-label',el.title);el.addEventListener('pointerdown',e=>e.stopPropagation());el.onclick=async e=>{e.preventDefault();e.stopPropagation();if(a.url)window.open(a.url,'_blank','noopener');else{const p=await targetPage(a.dest);if(p&&book)book.flip(p-1)}};layer.appendChild(el)}div.appendChild(layer)}
+async function renderPdf(source){if(loadingStarted)return;loadingStarted=true;try{pdfDoc=await pdfjsLib.getDocument(source).promise;total=pdfDoc.numPages;pageNo.max=total;for(let n=1;n<=total;n++){status.textContent='Preparing page '+n+' of '+total;const pg=await pdfDoc.getPage(n),vp=pg.getViewport({scale:1.25}),canvas=document.createElement('canvas');canvas.width=vp.width;canvas.height=vp.height;await pg.render({canvasContext:canvas.getContext('2d'),viewport:vp}).promise;const d=document.createElement('div');d.className='page';if(n===1)d.dataset.density='hard';d.appendChild(canvas);await addLinks(pg,d,vp);const wm=document.createElement('div');wm.className='watermark';wm.textContent=watermark;d.appendChild(wm);root.appendChild(d)}loading.style.display='none';root.style.display='block';book=new St.PageFlip(root,{width:550,height:730,size:'stretch',minWidth:220,maxWidth:650,minHeight:280,maxHeight:760,showCover:true,mobileScrollSupport:false,usePortrait:true,drawShadow:true,flippingTime:700});book.loadFromHTML(document.querySelectorAll('.page'));book.on('flip',e=>{status.textContent='Page '+(e.data+1)+' of '+total;pageNo.value=e.data+1});prev.disabled=next.disabled=pageNo.disabled=false;status.textContent='Page 1 of '+total}catch(error){loadingStarted=false;loading.innerHTML='<h2 class="error">The '+(isLab?'lab manual':'ebook')+' could not be loaded</h2><p>Confirm that <strong>'+pdfFile+'</strong> is in the same folder as <strong>index.html</strong>.</p><p class="small">'+String(error.message||error)+'</p>'+localPanel.outerHTML;document.getElementById('localPanel').classList.add('show');document.getElementById('localFile').onchange=handleLocal;status.textContent='Select the PDF file'}}
+async function handleLocal(e){const file=e.target.files&&e.target.files[0];if(!file)return;status.textContent='Reading '+file.name+'...';const data=await file.arrayBuffer();document.getElementById('localPanel').classList.remove('show');renderPdf({data})}
+localFile.onchange=handleLocal;prev.onclick=()=>book&&book.flipPrev();next.onclick=()=>book&&book.flipNext();pageNo.onchange=()=>book&&book.flip(Math.max(1,Math.min(total,Number(pageNo.value)||1))-1);
+if(location.protocol==='file:'||location.protocol==='content:'){localPanel.classList.add('show');status.textContent='Select the PDF file';}else renderPdf(pdfFile);
+</script>
+</body></html>
