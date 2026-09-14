@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "DS001",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 1: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS002",
+    "topic": "Communication",
+    "question": "[Communication] Question 2: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS003",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 3: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS004",
+    "topic": "Naming",
+    "question": "[Naming] Question 4: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS005",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 5: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS006",
+    "topic": "Replication",
+    "question": "[Replication] Question 6: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS007",
+    "topic": "Caching",
+    "question": "[Caching] Question 7: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS008",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 8: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS009",
+    "topic": "RMI",
+    "question": "[RMI] Question 9: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS010",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 10: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS011",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 11: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS012",
+    "topic": "Communication",
+    "question": "[Communication] Question 12: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS013",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 13: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS014",
+    "topic": "Naming",
+    "question": "[Naming] Question 14: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS015",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 15: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS016",
+    "topic": "Replication",
+    "question": "[Replication] Question 16: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS017",
+    "topic": "Caching",
+    "question": "[Caching] Question 17: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS018",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 18: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS019",
+    "topic": "RMI",
+    "question": "[RMI] Question 19: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS020",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 20: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS021",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 21: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS022",
+    "topic": "Communication",
+    "question": "[Communication] Question 22: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS023",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 23: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS024",
+    "topic": "Naming",
+    "question": "[Naming] Question 24: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS025",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 25: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS026",
+    "topic": "Replication",
+    "question": "[Replication] Question 26: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS027",
+    "topic": "Caching",
+    "question": "[Caching] Question 27: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS028",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 28: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS029",
+    "topic": "RMI",
+    "question": "[RMI] Question 29: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS030",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 30: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS031",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 31: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS032",
+    "topic": "Communication",
+    "question": "[Communication] Question 32: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS033",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 33: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS034",
+    "topic": "Naming",
+    "question": "[Naming] Question 34: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS035",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 35: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS036",
+    "topic": "Replication",
+    "question": "[Replication] Question 36: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS037",
+    "topic": "Caching",
+    "question": "[Caching] Question 37: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS038",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 38: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS039",
+    "topic": "RMI",
+    "question": "[RMI] Question 39: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS040",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 40: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS041",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 41: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS042",
+    "topic": "Communication",
+    "question": "[Communication] Question 42: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS043",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 43: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS044",
+    "topic": "Naming",
+    "question": "[Naming] Question 44: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS045",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 45: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS046",
+    "topic": "Replication",
+    "question": "[Replication] Question 46: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS047",
+    "topic": "Caching",
+    "question": "[Caching] Question 47: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS048",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 48: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS049",
+    "topic": "RMI",
+    "question": "[RMI] Question 49: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS050",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 50: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS051",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 51: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS052",
+    "topic": "Communication",
+    "question": "[Communication] Question 52: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS053",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 53: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS054",
+    "topic": "Naming",
+    "question": "[Naming] Question 54: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS055",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 55: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS056",
+    "topic": "Replication",
+    "question": "[Replication] Question 56: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS057",
+    "topic": "Caching",
+    "question": "[Caching] Question 57: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS058",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 58: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS059",
+    "topic": "RMI",
+    "question": "[RMI] Question 59: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS060",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 60: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS061",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 61: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS062",
+    "topic": "Communication",
+    "question": "[Communication] Question 62: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS063",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 63: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS064",
+    "topic": "Naming",
+    "question": "[Naming] Question 64: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS065",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 65: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS066",
+    "topic": "Replication",
+    "question": "[Replication] Question 66: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS067",
+    "topic": "Caching",
+    "question": "[Caching] Question 67: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS068",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 68: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS069",
+    "topic": "RMI",
+    "question": "[RMI] Question 69: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS070",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 70: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS071",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 71: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS072",
+    "topic": "Communication",
+    "question": "[Communication] Question 72: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS073",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 73: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS074",
+    "topic": "Naming",
+    "question": "[Naming] Question 74: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS075",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 75: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS076",
+    "topic": "Replication",
+    "question": "[Replication] Question 76: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS077",
+    "topic": "Caching",
+    "question": "[Caching] Question 77: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS078",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 78: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS079",
+    "topic": "RMI",
+    "question": "[RMI] Question 79: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS080",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 80: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS081",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 81: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS082",
+    "topic": "Communication",
+    "question": "[Communication] Question 82: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS083",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 83: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS084",
+    "topic": "Naming",
+    "question": "[Naming] Question 84: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS085",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 85: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS086",
+    "topic": "Replication",
+    "question": "[Replication] Question 86: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS087",
+    "topic": "Caching",
+    "question": "[Caching] Question 87: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS088",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 88: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS089",
+    "topic": "RMI",
+    "question": "[RMI] Question 89: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS090",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 90: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS091",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 91: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS092",
+    "topic": "Communication",
+    "question": "[Communication] Question 92: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS093",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 93: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS094",
+    "topic": "Naming",
+    "question": "[Naming] Question 94: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS095",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 95: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS096",
+    "topic": "Replication",
+    "question": "[Replication] Question 96: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS097",
+    "topic": "Caching",
+    "question": "[Caching] Question 97: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS098",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 98: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS099",
+    "topic": "RMI",
+    "question": "[RMI] Question 99: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS100",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 100: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS101",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 101: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS102",
+    "topic": "Communication",
+    "question": "[Communication] Question 102: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS103",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 103: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS104",
+    "topic": "Naming",
+    "question": "[Naming] Question 104: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS105",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 105: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS106",
+    "topic": "Replication",
+    "question": "[Replication] Question 106: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS107",
+    "topic": "Caching",
+    "question": "[Caching] Question 107: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS108",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 108: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS109",
+    "topic": "RMI",
+    "question": "[RMI] Question 109: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS110",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 110: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS111",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 111: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS112",
+    "topic": "Communication",
+    "question": "[Communication] Question 112: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS113",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 113: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS114",
+    "topic": "Naming",
+    "question": "[Naming] Question 114: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS115",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 115: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS116",
+    "topic": "Replication",
+    "question": "[Replication] Question 116: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS117",
+    "topic": "Caching",
+    "question": "[Caching] Question 117: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS118",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 118: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS119",
+    "topic": "RMI",
+    "question": "[RMI] Question 119: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS120",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 120: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS121",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 121: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS122",
+    "topic": "Communication",
+    "question": "[Communication] Question 122: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS123",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 123: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS124",
+    "topic": "Naming",
+    "question": "[Naming] Question 124: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS125",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 125: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS126",
+    "topic": "Replication",
+    "question": "[Replication] Question 126: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS127",
+    "topic": "Caching",
+    "question": "[Caching] Question 127: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS128",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 128: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS129",
+    "topic": "RMI",
+    "question": "[RMI] Question 129: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS130",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 130: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS131",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 131: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS132",
+    "topic": "Communication",
+    "question": "[Communication] Question 132: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS133",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 133: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS134",
+    "topic": "Naming",
+    "question": "[Naming] Question 134: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS135",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 135: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS136",
+    "topic": "Replication",
+    "question": "[Replication] Question 136: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS137",
+    "topic": "Caching",
+    "question": "[Caching] Question 137: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS138",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 138: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS139",
+    "topic": "RMI",
+    "question": "[RMI] Question 139: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS140",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 140: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS141",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 141: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS142",
+    "topic": "Communication",
+    "question": "[Communication] Question 142: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS143",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 143: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS144",
+    "topic": "Naming",
+    "question": "[Naming] Question 144: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS145",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 145: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS146",
+    "topic": "Replication",
+    "question": "[Replication] Question 146: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS147",
+    "topic": "Caching",
+    "question": "[Caching] Question 147: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS148",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 148: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS149",
+    "topic": "RMI",
+    "question": "[RMI] Question 149: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS150",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 150: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS151",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 151: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS152",
+    "topic": "Communication",
+    "question": "[Communication] Question 152: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS153",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 153: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS154",
+    "topic": "Naming",
+    "question": "[Naming] Question 154: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS155",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 155: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS156",
+    "topic": "Replication",
+    "question": "[Replication] Question 156: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS157",
+    "topic": "Caching",
+    "question": "[Caching] Question 157: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS158",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 158: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS159",
+    "topic": "RMI",
+    "question": "[RMI] Question 159: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS160",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 160: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS161",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 161: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS162",
+    "topic": "Communication",
+    "question": "[Communication] Question 162: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS163",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 163: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS164",
+    "topic": "Naming",
+    "question": "[Naming] Question 164: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS165",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 165: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS166",
+    "topic": "Replication",
+    "question": "[Replication] Question 166: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS167",
+    "topic": "Caching",
+    "question": "[Caching] Question 167: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS168",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 168: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS169",
+    "topic": "RMI",
+    "question": "[RMI] Question 169: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS170",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 170: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS171",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 171: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS172",
+    "topic": "Communication",
+    "question": "[Communication] Question 172: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS173",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 173: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS174",
+    "topic": "Naming",
+    "question": "[Naming] Question 174: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS175",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 175: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS176",
+    "topic": "Replication",
+    "question": "[Replication] Question 176: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS177",
+    "topic": "Caching",
+    "question": "[Caching] Question 177: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS178",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 178: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS179",
+    "topic": "RMI",
+    "question": "[RMI] Question 179: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS180",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 180: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS181",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 181: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS182",
+    "topic": "Communication",
+    "question": "[Communication] Question 182: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS183",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 183: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS184",
+    "topic": "Naming",
+    "question": "[Naming] Question 184: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS185",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 185: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS186",
+    "topic": "Replication",
+    "question": "[Replication] Question 186: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS187",
+    "topic": "Caching",
+    "question": "[Caching] Question 187: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS188",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 188: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS189",
+    "topic": "RMI",
+    "question": "[RMI] Question 189: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS190",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 190: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS191",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 191: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS192",
+    "topic": "Communication",
+    "question": "[Communication] Question 192: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS193",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 193: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS194",
+    "topic": "Naming",
+    "question": "[Naming] Question 194: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS195",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 195: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS196",
+    "topic": "Replication",
+    "question": "[Replication] Question 196: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS197",
+    "topic": "Caching",
+    "question": "[Caching] Question 197: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS198",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 198: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS199",
+    "topic": "RMI",
+    "question": "[RMI] Question 199: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS200",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 200: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS201",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 201: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS202",
+    "topic": "Communication",
+    "question": "[Communication] Question 202: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS203",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 203: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS204",
+    "topic": "Naming",
+    "question": "[Naming] Question 204: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS205",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 205: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS206",
+    "topic": "Replication",
+    "question": "[Replication] Question 206: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS207",
+    "topic": "Caching",
+    "question": "[Caching] Question 207: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS208",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 208: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS209",
+    "topic": "RMI",
+    "question": "[RMI] Question 209: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS210",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 210: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS211",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 211: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS212",
+    "topic": "Communication",
+    "question": "[Communication] Question 212: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS213",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 213: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS214",
+    "topic": "Naming",
+    "question": "[Naming] Question 214: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS215",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 215: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS216",
+    "topic": "Replication",
+    "question": "[Replication] Question 216: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS217",
+    "topic": "Caching",
+    "question": "[Caching] Question 217: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS218",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 218: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS219",
+    "topic": "RMI",
+    "question": "[RMI] Question 219: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS220",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 220: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS221",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 221: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS222",
+    "topic": "Communication",
+    "question": "[Communication] Question 222: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS223",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 223: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS224",
+    "topic": "Naming",
+    "question": "[Naming] Question 224: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS225",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 225: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS226",
+    "topic": "Replication",
+    "question": "[Replication] Question 226: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS227",
+    "topic": "Caching",
+    "question": "[Caching] Question 227: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS228",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 228: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS229",
+    "topic": "RMI",
+    "question": "[RMI] Question 229: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS230",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 230: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS231",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 231: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS232",
+    "topic": "Communication",
+    "question": "[Communication] Question 232: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS233",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 233: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS234",
+    "topic": "Naming",
+    "question": "[Naming] Question 234: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS235",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 235: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS236",
+    "topic": "Replication",
+    "question": "[Replication] Question 236: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS237",
+    "topic": "Caching",
+    "question": "[Caching] Question 237: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS238",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 238: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS239",
+    "topic": "RMI",
+    "question": "[RMI] Question 239: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS240",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 240: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS241",
+    "topic": "Foundations",
+    "question": "[Foundations] Question 241: Which statement best describes a core concept in Foundations?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Foundations. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS242",
+    "topic": "Communication",
+    "question": "[Communication] Question 242: Which statement best describes a core concept in Communication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Communication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS243",
+    "topic": "Architecture",
+    "question": "[Architecture] Question 243: Which statement best describes a core concept in Architecture?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Architecture. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS244",
+    "topic": "Naming",
+    "question": "[Naming] Question 244: Which statement best describes a core concept in Naming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Naming. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS245",
+    "topic": "Synchronization",
+    "question": "[Synchronization] Question 245: Which statement best describes a core concept in Synchronization?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Synchronization. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS246",
+    "topic": "Replication",
+    "question": "[Replication] Question 246: Which statement best describes a core concept in Replication?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Replication. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS247",
+    "topic": "Caching",
+    "question": "[Caching] Question 247: Which statement best describes a core concept in Caching?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to Caching. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS248",
+    "topic": "FaultTolerance",
+    "question": "[FaultTolerance] Question 248: Which statement best describes a core concept in FaultTolerance?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to FaultTolerance. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS249",
+    "topic": "RMI",
+    "question": "[RMI] Question 249: Which statement best describes a core concept in RMI?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to RMI. Distributed systems require correct design, fault handling, and scalability."
+  },
+  {
+    "id": "DS250",
+    "topic": "SocketProgramming",
+    "question": "[SocketProgramming] Question 250: Which statement best describes a core concept in SocketProgramming?",
+    "options": [
+      "Correct concept and best practice in distributed systems",
+      "Ignore failures and assumptions",
+      "Use a single point of failure everywhere",
+      "Avoid coordination completely"
+    ],
+    "answer": 0,
+    "explanation": "This question belongs to SocketProgramming. Distributed systems require correct design, fault handling, and scalability."
+  }
+]
